@@ -1,0 +1,7 @@
+C:\Users\Lenovo\Desktop\ExamAverage\ExamAverage\bin\Debug\ExamAverage.exe.config
+C:\Users\Lenovo\Desktop\ExamAverage\ExamAverage\bin\Debug\ExamAverage.exe
+C:\Users\Lenovo\Desktop\ExamAverage\ExamAverage\bin\Debug\ExamAverage.pdb
+C:\Users\Lenovo\Desktop\ExamAverage\ExamAverage\obj\Debug\ExamAverage.csproj.AssemblyReference.cache
+C:\Users\Lenovo\Desktop\ExamAverage\ExamAverage\obj\Debug\ExamAverage.csproj.CoreCompileInputs.cache
+C:\Users\Lenovo\Desktop\ExamAverage\ExamAverage\obj\Debug\ExamAverage.exe
+C:\Users\Lenovo\Desktop\ExamAverage\ExamAverage\obj\Debug\ExamAverage.pdb
